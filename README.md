@@ -1,5 +1,7 @@
 # MIDI Remote API - User Scripts
 
+Hello World
+
 # About
 
 Welcome to the Steinberg **MIDI Remote API**.
